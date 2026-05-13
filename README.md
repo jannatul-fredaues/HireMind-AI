@@ -1,1 +1,1 @@
-# HireMind-AI-AI-Powered-Recruitment-Intelligence-System-
+# HireMind-AI (AI-Powered-Recruitment-Intelligence-System)
